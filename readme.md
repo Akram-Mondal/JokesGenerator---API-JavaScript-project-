@@ -4,4 +4,5 @@
 
 ### Sample Image
 
-![Sample One](./Image/Project.png)
+![Project](https://github.com/Akram-Mondal/JokesGenerator---API-JavaScript-project-/assets/110484350/f32ca4f4-66cb-4402-b44a-77e8dbca5f0d)
+
